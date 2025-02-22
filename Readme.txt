@@ -30,3 +30,9 @@ or
     --region=us-central1 \
     --allow-unauthenticated
 
+# The message from postman 
+{
+  "message": {
+    "data": "WW91IGhhdmV0byB1c2UgdGhlIGJlbG93IGNvZGUgdG8gZW5jb2RlIGN1c3RvbSBtZXNzYWdlcyBpbiBCYXNlNjQgdXNpbmcgUHl0aG9uCgppbXBvcnQgYmFzZTY0CiAKbWVzc2FnZSA9ICJZb3VyIGN1c3RvbSBtZXNzYWdlIgoKZW5jb2RlZF9tZXNzYWdlID0gYmFzZTY0LmI2NGVuY29kZShtZXNzYWdlLmVuY29kZSgpKS5kZWNvZGUoKQoKcHJpbnQoZW5jb2RlZF9tZXNzYWdlKQo="  
+  }
+}
